@@ -1,3 +1,9 @@
+"""
+Title	   : Perceptron to recognize handwritten digits.
+Author 	   : Unmesh Mahendra Deodhar
+Description: The system has 10 perceptrons each corresponds to a digit. We train system on 60000 training dataset and calculated accuracy
+	     on the same training set as well as the test dataset having 10000 example sets.
+"""
 import numpy
 import  random
 import time
